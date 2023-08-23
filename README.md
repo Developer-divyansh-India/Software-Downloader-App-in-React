@@ -14,4 +14,4 @@ A simple web application built with React that allows users to search and downlo
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Software-Downloader-App-in-React.git
+   git clone https://github.com/your-username/Software-Downloader-App-in-React.git](https://github.com/Developer-divyansh-India/Software-Downloader-App-in-React)https://github.com/Developer-divyansh-India/Software-Downloader-App-in-React
